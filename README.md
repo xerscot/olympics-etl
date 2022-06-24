@@ -1,4 +1,4 @@
-# ETL on Olympics Dataset.
+# ETL on Olympics Dataset
 
 A little ETL tool to put raw profile data into a sqlite database (hint it's included in the data folder)
 
@@ -11,7 +11,7 @@ Just before the Winter Olympics started the official site was still showing the 
 ### Dependencies
 
 * Python 3.10.4 was used for development
-* Beautiful Soup 4.11.1 
+* Beautiful Soup 4.11.1
 
 ```bash
 pip install beautifulsoup4
@@ -32,4 +32,4 @@ Xander Erkamp
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details.
